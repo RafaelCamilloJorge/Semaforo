@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color : white;
+}
+
+main{
+    display:flex;
+    height:100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    gap: 5vh;
+}
+
+.button{
+    width: 100px;
+    color: purple;
+    background-color:black;
+}
+
+.buttonr{
+    width: 100px;
+    color: red;
+    background-color:black;
+} 
+ 
+.buttony{
+    width: 100px;
+    color: yellow;
+    background-color:black;
+} 
+
+.buttonv{
+    width: 100px;
+    color: green;
+    background-color:black;
+}
